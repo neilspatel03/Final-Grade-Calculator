@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E7DF929C-01D8-47FD-8BB7-A08891FA00BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "003D1B85-9C13-4F48-BF52-72651322E339"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final Grade Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final Grade Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - 79952ac548786bc5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.finalWeightTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - d350ca0659718fa9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.finalWeightTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - 893ee6fffb6b8322"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.finalWeightTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - 23cc41ac2dde9211"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.finalWeightTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - a3de957fd2e54134"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Final_Grade_Calculator.ViewController"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "58C8B32D-346A-4CD2-B8D9-5446383B1B2D - f6bae446853ec26c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Grade_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Final_Grade_Calculator.ViewController&gt;"
+                  moduleName = "Final Grade Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Final%20Grade%20Calculator/Final%20Grade%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
